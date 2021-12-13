@@ -1,0 +1,113 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Cinzel', Cursive;
+  }
+  
+  p, li {
+    font-family: 'Fauna One', Serif;
+  }
+  
+  .site-title {
+    width: 80%;
+    margin: 10% auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 44px;
+  }
+  
+  .color-container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  .color-label {
+    font-size: 1.2rem;
+  }
+  
+  .color-description {
+    text-transform: lowercase;
+  }
+  
+  .dark-gray {
+    background-color: #62676A;
+    color: white;
+  }
+  
+  .dark-teal {
+    background-color: #26727E;
+     color: white;
+  }
+  
+  .light-gray {
+    background-color: #EAEBEB;
+    color: black;
+  }
+  
+  .dark-green {
+    background-color: #0F2417;
+    color: white;
+  }
+  
+  .font-container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  .font-panel {
+    width: 40%;
+    display: inline-block;
+    margin: 2% auto;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .cinzel {
+    font-family: 'Cinzel', cursive;
+  }
+  
+  .fauna-one {
+    font-family: 'Fauna One', serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 44px;
+    font-family: 'Cinzel', cursive;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 26px;
+    font-family: 'Cinzel', cursive;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Fauna One', serif;
+  }
+  
